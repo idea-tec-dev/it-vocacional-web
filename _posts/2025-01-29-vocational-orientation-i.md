@@ -6,6 +6,7 @@ categories: [Orientación Profesional, Desarrollo Personal]
 tags: [carrera, vocación, decisiones]
 image: assets/images/careers.jpg
 description: "Un test interactivo para ayudarte a comprender y mejorar tu proceso de toma de decisiones vocacionales."
+sidebar_content: true
 ---
 
 La orientación vocacional es un proceso que ayuda a las personas a descubrir sus intereses, habilidades y valores para tomar decisiones acertadas sobre su futuro académico y profesional. Se trata de un acompañamiento que permite a los individuos reflexionar sobre sus fortalezas y aspiraciones, alineándolas con las oportunidades disponibles en el mundo laboral.
