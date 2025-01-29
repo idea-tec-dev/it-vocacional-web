@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Ciudades de Papel: Geografías Íntimas"
+title: "¿Qué es la orientación vocacional y por qué es importante?"
 author: alex
-categories: [Reflexión, Viajes]
-tags: [ciudades, memoria, nostalgia]
+categories: [Orientación Profesional, Desarrollo Personal]
+tags: [carrera, vocación, decisiones]
 image: assets/images/careers.jpg
-description: "Un viaje a través de las ciudades que habitamos en nuestra memoria, más allá de los mapas y las fronteras físicas."
+description: "Un test interactivo para ayudarte a comprender y mejorar tu proceso de toma de decisiones vocacionales."
 ---
-
-¿Qué es la orientación vocacional y por qué es importante?
 
 La orientación vocacional es un proceso que ayuda a las personas a descubrir sus intereses, habilidades y valores para tomar decisiones acertadas sobre su futuro académico y profesional. Se trata de un acompañamiento que permite a los individuos reflexionar sobre sus fortalezas y aspiraciones, alineándolas con las oportunidades disponibles en el mundo laboral.
 
