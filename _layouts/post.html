@@ -10,15 +10,16 @@ post_class: post-template
 <div class="container">
     <div class="row">
 
-        <!-- Post Share -->
-        <div class="col-md-1 pl-0">
+        <!-- Post Share - First and Ordered First -->
+        <div class="col-md-{% if page.sidebar_content %}1{% else %}2{% endif %} order-1 pl-0">
             {% include share.html %}
         </div>
 
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
-        <div class="col-md-8 flex-first flex-md-unordered">
+        <!-- Post Content - Second and Ordered Second -->
+        <div class="col-md-8 order-3 order-md-2 flex-first flex-md-unordered">
             <div class="mainheading">
 
                 <!-- Author Box -->
@@ -137,7 +138,7 @@ post_class: post-template
 
         <!-- Sidebar Derecha (Tarjeta Condicional) -->
         {% if page.sidebar_content %}
-        <div class="col-md-2 pl-0">
+        <div class="col-md-2 order-2 order-md-3 pl-0">
             <div class="card sticky-top sticky-top-80">
                 <div class="card-body text-center">
                     <h5>¿Quieres un examen completo vocacional?</h5>
