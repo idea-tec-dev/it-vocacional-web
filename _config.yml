@@ -1,7 +1,7 @@
 # Site
 name: "iT-Vocación"
 title: "iT-Vocación"
-description: "idea-Tec Educación, tu academía para tu vida"
+description: "idea-Tec Educación, tu academia para el ingreso a la universidad"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: /
@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   alex:
-    name: Alexander Rugeles
-    display_name: Alex
+    name: Alexánder Rugeles
+    display_name: Alexánder Rugeles
     avatar: "assets/images/alex.png"
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     #email: wowthemesnet@gmail.com
