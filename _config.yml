@@ -1,11 +1,11 @@
 # Site
-name: "iT-Quiz"
-title: "iT-Quiz"
+name: "iT-Vocación"
+title: "iT-Vocación"
 description: "idea-tec Educación, tu academía para tu vida"
 logo: "assets/images/logo.png"
 favicon: "assets/images/logo.png"
 baseurl: /
-google_analytics: "G-M41PZEGK54"
+google_analytics: "G-6CPQZXFFS1"
 disqus: "ideatecquiz"
 mailchimp-list: "https://ideateceducacion.us20.list-manage.com/subscribe/post?u=6707c7923c9f952e7f333d127&amp;id=dfccfd248b&amp;f_id=000e17eff0"
 include: ["_pages"]
